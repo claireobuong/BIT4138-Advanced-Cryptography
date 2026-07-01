@@ -1,0 +1,15 @@
+========================================
+     DIFFIE-HELLMAN KEY EXCHANGE
+========================================
+
+Public Prime (p) : 23
+Generator (g)    : 5
+
+Alice Public Key : 8
+Bob Public Key   : 19
+
+Alice Secret     : 2
+Bob Secret       : 2
+
+Verification     : SUCCESS
+Shared Secret    : 2

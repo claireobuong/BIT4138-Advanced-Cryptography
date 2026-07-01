@@ -1,0 +1,15 @@
+========================================
+      CERTIFICATE INFORMATION
+========================================
+
+Issuer: C=US, O=Google Trust Services, CN=WE2
+
+Subject: CN=www.google.com
+
+Signature Algorithm: ecdsa-with-SHA256
+
+Not Before: Jun  8 08:39:09 2026 GMT
+
+Not After : Aug 31 08:39:08 2026 GMT
+
+Certificate Status : VALID
